@@ -1,2 +1,0 @@
-# kimchichronicle
-my first website
